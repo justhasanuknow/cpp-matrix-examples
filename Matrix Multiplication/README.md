@@ -5,5 +5,5 @@ Matrix multiplication is only possible if the number of columns in the first mat
 ```
 |a  b  c|   |g  h|   |ag+bi+ck  ah+bj+cl|
 |d  e  f| x |i  j| = |dg+ei+fk  dh+ej+fl|
-|         | |k  l|
+|       |   |k  l|
 ```
