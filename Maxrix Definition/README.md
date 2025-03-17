@@ -4,10 +4,9 @@
 
 A matrix is a rectangular array of numbers organized in rows and columns:
 
-Example:
+Example of a 2x2 matrix:
 
-\[
-A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
-\]
-
-This represents a 2x2 matrix.
+```
+| 1  2 |
+| 3  4 |
+```
